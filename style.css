@@ -91,3 +91,7 @@ button i {
     color: #fff;
     font-size: 1.4em;
 }
+
+a:hover {
+    cursor: url('./images/hover.png'), auto;
+}
