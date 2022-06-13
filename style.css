@@ -51,10 +51,6 @@ body {
     transform: scale(1.2);
 }
 
-.card:hover {
-    cursor: url('./images/hover.png'), auto;
-}
-
 p {
     line-height: 24px;
     letter-spacing: 0.5px;
